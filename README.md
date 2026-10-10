@@ -114,4 +114,9 @@ npm run dev
 - Live vehicle tracking
 
 ## Team
-[Team name]: [Your name] – [role], [Teammate] – [role]
+
+### Learners
+
+- [Gagan HM] - [Project Lead & Full-Stack Developer]
+- [Aditya B Kanshette] - [Backend Developer & Data Integration]
+- [Gagan Padma Shastry] - [UI/UX Designer & Kannada Localization]
